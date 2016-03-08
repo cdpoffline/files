@@ -1,15 +1,13 @@
 #!/bin/bash
 
-cd "`dirname $0`"
+cd "`dirname \"$0\"`"
+
+mkdir -p ../web
 
 cd ../web
 
-rm -r descriptions
-mkdir -p descriptions
-cd descriptions
+echo "Add your files to"
+echo "  `pwd`"
 
-ln -s -T "`realpath ../files`" files
-
-../bin/list_files.py ../files.yml ../modules.yml "`pwd`"
 
 

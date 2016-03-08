@@ -1,7 +1,0 @@
-overview:
-  beginners:
-    lightbot:
-#      image: overview.jpg
-      name: Lightbot
-      text: Steuere einen Roboter und hilf dabei, bestimmte Stellen am Boden zu beleuchten.
-      module: lightbot
