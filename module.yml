@@ -3,5 +3,5 @@ overview:
     files:
 #      image: overview.jpg
       name: Dateien
-      text: Diese Dateien sind vielleicht von Nutzen
+      text: Diese Dateien sind vielleicht von Nutzen.
       module: files
