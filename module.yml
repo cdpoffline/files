@@ -2,10 +2,12 @@ overview:
   tools:
     files:
 #      image: overview.jpg
-      name: 
+      name:
         en-en: Files
         de-de: Dateien
-      text: 
+        it-it:	File utili
+      text:
         en-en: These files could be useful.
         de-de: Diese Dateien sind vielleicht von Nutzen.
+        it-it: Una raccolta di materiali che potrebbero servirti
       module: files
